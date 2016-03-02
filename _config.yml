@@ -1,0 +1,28 @@
+name: World Class Basics
+favicon: null
+layout_spectrum: 0.7300299776252359
+typography_spectrum: 0.9001212851144373
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.022603756980970502
+  lightness: 0.1891065970994532
+  saturation: 0.4703105539083481
+  rhythmicContrast: 0.9615138543304056
+purpose: []
